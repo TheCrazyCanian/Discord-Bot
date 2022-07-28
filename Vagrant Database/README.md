@@ -1,0 +1,2 @@
+All the files in this "Vagrant Database" folder, where originally from: # Copyright (c) 2017, Bert Van Vreckem <bert.vanvreckem@gmail.com>. All rights reserved. #
+I have modified these files, so they meet my needs.

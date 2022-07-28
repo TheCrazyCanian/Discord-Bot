@@ -1,0 +1,53 @@
+ALT + arrow up or down: geselecteerde tekst naar boven of onder verplaatsen
+SHIFT + ALT + F: Formatting
+F5: Run
+
+
+sad_words = [ "Akelig", "afschuwelijk", "afgrijselijk", "alarmerend", "alleen", "achtergesteld", "afgunstig", "armzalig", "aangeklaagd", "afzijdig", "arrogant", "angst", "afsnauwen", "afkeuren", "afgedankt", "aso", "aanvallen", "agressief", 
+    "achterdochtig", "argwanend", "aarzelen",
+
+"Beducht", begoocheld", bang", bevreesd", belast", bezwaard", beperkt", bruut", beest", bewogen", besluiteloos", botsen", bitter", bedrogen", beroofd", bijtend", beschuldig", beklaagd", beschaamd", "bedriegen", "bezwaarlijk", "boos", "benauwd", "bezorgd", "beschamend", "bedrieglijk", "bedroevend", "bevooroordeeld", "beperkt", "bende", "berouw", "belachelijk", "bedreigd", "bekritiseren", "bezwaar", "bezeten", "bestraft", "beledigen", "beroerd", "berispen", "beroven", "bekrompen",
+
+
+"Cynisch", conflict", chagrijnig", corrupt", chaotisch",
+
+Depressief", droevig", deerlijk", denigrerend", dol", dom", dwaas", dor", dwaas", doosbang", droefenis", drama", dwarsbomend", dwingen",
+
+Eigenzinnig", eigenwijs", eenzaam", ellendig", erbarmelijk", eigenaardig",
+
+ Flauw", fobisch",
+
+Gebukt", gedegradeerd", gedevalueerd", gedeprimeerd", gruwelijk", geïsoleerd", geschokt", geklaag", gek", gejaagd", gemeden", gebrekkig", gekleineerd", gekweld", grimmig", geschonden", gekrenkt", gezondigd", gedwarsboomd", gevreesd", geslagen", geïntimideerd", gierig", geruïneerd", gebrekkig", gehinderd", gemarteld", gealarmeerd", geïrriteerd", geërgerd", gesloopt", gefrustreerd", gepijnigd",
+
+ Huiveringwekkend", hopeloos", huiliger", humeurig", hatend", hatelijk", hoogmoedig", hachelijk", harteloos", hulpeloos", huichelaar", hypocriet", hysterisch", hebzucht", hinderend", haatdragend",
+
+incompetent", ineffectief", inhalig", inadequaat", irriterend",
+
+Jammerlijk", jaloers", jagen",
+
+Koppig", klef", kapot", knoeien", kinderachtig", kregelig", krankzinnig", krachteloos", kwaad", kil", kritisch", knorrig", kwetsbaar",
+
+ Lastig", lafhartig", lafbek", lusteloos", leugenaar", liegen", lomp", leugens", laaiend", lui",
+
+ Misselijk, misselijkmakend, misbruikt, misdeeld, muiterij, manipulerend, machteloos, materialistisch, moe, materteling, mislukt, meedogenloos",
+
+Naar, namaak, nep, neerslachtig, nalatig,  nutteloos",
+
+Ongerust, opgesloten, onverzettelijk, onbegrijpelijk, onbegrepen, onbegrip, onecht, onverantwoordelijk, onvergeeflijk, ongedurig, onuitgemaakt, opgelicht, ontnormen, onbekwaam, opstandig, oproerend, onzeker, onvast, ongeorganiseerd, ontwricht, ongeduldig, opstandig, onbezonnen, onvriendelijk, ondankbaar, onaangenaam, onmachtig, ongelukkig, onnadenkend, onhandig, ontevreden, onbelangrijk, onaangenaam, oppervlakkig, onverstandig, onderschat, onoprecht, onwaardig, onterecht, onplezierig, ontroostbaar, onvolledig, ontaard, ongemakkelijk, onwetend, onzinnig, onverantwoordelijk, ongebruikt, onbeschermd, ongedisciplineerd, onredelijk",
+
+Passief, paniekerig, pessimistisch, prikkelbaar",
+
+Rammelend, rauw, rusteloos, razend, rebels, roerig, raar",
+
+Somber, stockerend, schrikken, strijd, slap, slecht, sarcastisch, spottend, schrikbarend, stom, stommiteit, schamen, spijt, schuchter, schuldig, smerig, smoesjes, straf, slaan, smijten, schandalig, schraal",
+
+Trouweloos, terneergeslagen, treurig, twistend, troosteloos, tegengesteld, teruggetrokken, twijfel, twijfelachtig, terughoudend, teleurgesteld, timide",
+
+Uitgeput, uitputtend, uitgesloten, uitzetten, uitbuiten",
+
+Verlaten, vervreemd, verbijsterd, verbluft, vergeten, vreselijk, verschrikkelijk, verzettend, verbolgen, verguisd, verkeerd, vals, verdrietig, vaal, veelbewogen, verontrust, verbannen, verstoten, verbitterd, vernederend, verwoest, verdoemd, vermoeid, verzwakt, verslapt, vijandig, verlamd, verachtend, vreselijk, verschrikkelijk, vervelend, verdacht, vijandelijk, verwaarloosd, vermeden, verlegen, verminkt, vernederend, verwerpen, vreugdeloos, verbitterd, vuil, vies, verstoteling, verliezen, verloren, verontwaardigd, verkeerd, vrezen, vervolgen, verstikken, verontrustend, vrekkig, vermoeiend, verwaand, vervloekt, verspilling, verraden",
+
+Woedend, wraak, wanhopig, woelig, waardeloos, wraakzuchtig, waanzin, wegsturen, wrok, weemoed, wreed, wanhopig, wantrouwen, wanhopig, weerzinwekkend, walgen",
+
+Zonde, zenuwachtig, zenuwslopend, zenuwen, zwaar, zwak, zorgeloos, zorgwekkend, zondig",
+]
